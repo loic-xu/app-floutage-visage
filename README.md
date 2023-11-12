@@ -1,8 +1,7 @@
 # floutage-visage
 Ce projet propose une application graphique simple et efficace pour protéger la vie privée en floutant les visages dans les images et les vidéos. Que vous cherchiez à préserver l'anonymat dans des photos de groupe ou à garantir la confidentialité dans des séquences vidéo, cet outil vous offre un moyen rapide et intuitif de flouter les visages.
 
-![Interface](assets/interface.png)
-
+![Interface](assets/interface.png)  
 Icône : Anonyme icône crée par Freepik - Flaticon
 
 ## Fonctionnalités
