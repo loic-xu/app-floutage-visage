@@ -45,7 +45,7 @@ class App:
     def __init__(self, root):
         self.root = root
         self.root.title("Floutage Visage")
-        self.root.iconbitmap('./assets/logo.ico')
+        self.root.iconbitmap('./assets/icone.ico')
 
         self.file_path = tk.StringVar()
         self.output_dir = tk.StringVar()
